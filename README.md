@@ -1,22 +1,19 @@
-# COURSE CODE - EXER CODE
-`Author`: Surname, Given Name(s) MI  
-`Section`: BSXX10XA
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/RUQKjpdt)
+# INTE1084 - m01
+`Author`: Nuay, John Mark C.
+`Section`: BSIT302A
 
 ## About
-Put here the description and general instructions of the exercise.
+Making a app where it shows 10 trivia or quotes when button is clicked.
 
 ## Files Structure
 ```
 main-branch 
-|_ folder1 
-  |_ project.py
-  |_ code.py
-|_ folder2
-  |_ report.pdf 
+|_ src
 ```
 
 ## Challenges Encountered
-Narrate all the challenges you've encountered during development
+Understanding how it will function.
 
 ## Key Takeaways
-List down your valuable learnings from doing this task.
+Learned how to making an app.
