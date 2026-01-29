@@ -4,7 +4,7 @@
 `Section`: BSIT302A
 
 ## About
-Put here the description and general instructions of the exercise.
+Making a app where it shows 10 trivia or quotes when button is clicked.
 
 ## Files Structure
 ```
@@ -13,7 +13,7 @@ main-branch
 ```
 
 ## Challenges Encountered
-Narrate all the challenges you've encountered during development
+Understanding how it will function.
 
 ## Key Takeaways
-List down your valuable learnings from doing this task.
+Learned how to making an app.
